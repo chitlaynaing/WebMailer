@@ -1,0 +1,13 @@
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\bin\Debug\netcoreapp2.1\WebMailerAPI.deps.json
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\bin\Debug\netcoreapp2.1\WebMailerAPI.runtimeconfig.json
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\bin\Debug\netcoreapp2.1\WebMailerAPI.runtimeconfig.dev.json
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\bin\Debug\netcoreapp2.1\WebMailerAPI.dll
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\bin\Debug\netcoreapp2.1\WebMailerAPI.pdb
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.csproj.CoreCompileInputs.cache
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.RazorAssemblyInfo.cache
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.RazorAssemblyInfo.cs
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.AssemblyInfoInputs.cache
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.AssemblyInfo.cs
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.RazorTargetAssemblyInfo.cache
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.dll
+E:\Project Arena\chit_lay_naing_repos\WebMailer\WebMailerAPI\WebMailerAPI\obj\Debug\netcoreapp2.1\WebMailerAPI.pdb
